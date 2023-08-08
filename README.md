@@ -1,1 +1,1 @@
-# LoginValidation
+I have implement a web application which allow user to login and register using their email address and password.The password must be 4 digit character or number. if the user don't have an account then they can sign up and login. upon login user will redirect to dashboard which provides an overview of their account information ad security settings. 
