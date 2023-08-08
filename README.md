@@ -1,1 +1,4 @@
-I have implement a web application which allow user to login and register using their email address and password.The password must be 4 digit character or number. if the user don't have an account then they can sign up and login. upon login user will redirect to dashboard which provides an overview of their account information ad security settings. 
+I have implemented  a web application where user can login with their email address and password.the password must be 4 character or digit.
+If the user don't have an account they can signup.
+upon login the user will redirect to the dashboard which provide an overview of their account information.
+There is a section where user can change their password also there is a section where user can see their security alerts.
